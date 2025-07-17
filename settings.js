@@ -10,7 +10,7 @@ SESSION_ID: process.env.SESSION_ID || "lucky~TQlniIRb#lzeLgAHRzqq7owzuYDjeM8G86g
 // add your Session Id make sure it starts with lucky~
 PREFIX: process.env.PREFIX || ".",
 // add your prifix for bot   
-BOT_NAME: process.env.BOT_NAME || "LUCKY-XD",
+BOT_NAME: process.env.BOT_NAME || "SELVA-XD",
 // add bot name here for menu
 MODE: process.env.MODE || "public",
 // make bot public-private-inbox-group 
@@ -24,13 +24,13 @@ LINK_WHITELIST: "youtube.com,github.com",
         AUTO_STATUS_SEEN: process.env.AUTO_STATUS_SEEN || "true",
 // make true or false status auto seen
 
-        AUTO_STATUS_REPLY: process.env.AUTO_STATUS_REPLY || "false",
+        AUTO_STATUS_REPLY: process.env.AUTO_STATUS_REPLY || "true",
 // make true if you want auto reply on status 
 
-        AUTO_STATUS_REACT: process.env.AUTO_STATUS_REACT || "false",
+        AUTO_STATUS_REACT: process.env.AUTO_STATUS_REACT || "true",
 // make true if you want auto reply on status 
 
-        AUTO_STATUS_MSG: process.env.AUTO_STATUS_MSG || "*Just seen ur status 😆*",
+        AUTO_STATUS_MSG: process.env.AUTO_STATUS_MSG || "*Selvazx Just seen ur status 😆*",
 // set the auto reply massage on status reply  
 
 

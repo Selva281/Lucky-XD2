@@ -1,7 +1,7 @@
 /*
 Project Name : SELVAZX
 Creator      : SELVAZX ( SELVAZX )
-Repo         : Fuck idiot there is no repo
+Repo         : THIS BOT IS CREATE BY SELVAZX
 Support      : wa.me/917010160188
 */
 
@@ -39,9 +39,9 @@ async (conn, mek, m, { from }) => {
 
         // Send the owner contact message with image and audio
         await conn.sendMessage(from, {
-            image: { url: 'https://files.catbox.moe/4itzeu.jpg' }, // Image URL from your request
+            image: { url: 'https://files.catbox.moe/minhdu.jpeg' }, // Image URL from your request
             caption: `
-╭┈┈❍ LUCKY XD ❍
+╭┈┈❍ SELVA ❍
 ┊• *Here are the user details*
 ┊• *ɴᴀᴍᴇ* : ${ownerName}
 ┊• *ɴᴜᴍʙᴇʀ*: ${ownerNumber}

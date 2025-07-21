@@ -1,8 +1,8 @@
 /*
-Project Name : LUCKY XMD
-Creator      : LUCKY 218 ( Mr Lucky 218)
-Repo         : https//github.com/Tomilucky218/Lucky-XD2
-Support      : wa.me/263714757857
+Project Name : SELVAZX
+Creator      : SELVAZX ( SELVAZX )
+Repo         : Fuck idiot there is no repo
+Support      : wa.me/917010160188
 */
 
 
